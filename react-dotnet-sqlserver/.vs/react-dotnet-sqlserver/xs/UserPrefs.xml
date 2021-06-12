@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{7AEDECC3-F039-4AFE-A710-7FFB835B7E73}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="react-dotnet-sqlserver/Program.cs">
     <Files>
-      <File FileName="react-dotnet-sqlserver/ClientApp/src/App.js" Line="1" Column="1" />
-      <File FileName="react-dotnet-sqlserver/Program.cs" Line="1" Column="1" />
-      <File FileName="react-dotnet-sqlserver/Startup.cs" Line="1" Column="1" />
+      <File FileName="react-dotnet-sqlserver/Program.cs" Line="16" Column="1" />
+      <File FileName="react-dotnet-sqlserver/Startup.cs" Line="66" Column="81" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.react-dotnet-sqlserver FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.react-dotnet-sqlserver PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
